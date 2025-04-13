@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-欢迎来到刘贤政的个人网站，在这里你可以快速了解我的基本信息。先来个简单的开场吧，可能你好奇为什么我的域名是sinliu。这是因为有很多人会错叫我“刘政贤”，而“政贤”与“正弦”同音，自然就变成了sin。（可能你不好奇，但是我也想说哈哈。
-目前就在华中师范大学学习，专业是计算机科学与技术。虽然目前是一名本科生，但是我对科研的向往不局限于我的身份。我最近的研究是有关计算机视觉领域中的视频时序定位（TSG），虽然目前没有很多产出，但是我相信在未来我一定可以发表多篇论文!
+&nbsp;&nbsp;&nbsp;&nbsp;欢迎来到刘贤政的个人网站，在这里你可以快速了解我的基本信息。先来个简单的开场吧，可能你好奇为什么我的域名是sinliu。这是因为有很多人会错叫我“刘政贤”，而“政贤”与“正弦”同音，自然就变成了sin。（可能你不好奇，但是我也想说哈哈。）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;目前就在华中师范大学学习，专业是计算机科学与技术。虽然目前是一名本科生，但是我对科研的向往不局限于我的身份。我最近的研究是有关计算机视觉领域中的视频时序定位（TSG），虽然目前没有很多产出，但是我相信在未来我一定可以发表多篇论文!
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
